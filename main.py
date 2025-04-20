@@ -5,7 +5,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 
 TOKEN = os.getenv("7193129795:AAEbZ2gwsNT3DYPPrlWprgqNoX1NfJ9hXKw")  # توکن را در محیط Render تنظیم کنید
 PORT = int(os.getenv("PORT", 8443))  # برای Webhook
-APP_NAME = os.getenv("Recoved Fast⚡️")  # نام برنامه در Render
+APP_NAME = os.getenv("Telbot")  # نام برنامه در Render
 
 WORDS_FILE = "words.txt"
 
