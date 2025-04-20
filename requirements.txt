@@ -1,2 +1,2 @@
 python-telegram-bot==13.7
-Flask==2.0.1  # برای وب‌هوک اختیاری
+requests==2.28.1
