@@ -3,7 +3,7 @@ import random
 from telegram import Update
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")  # توکن را در محیط Render تنظیم کنید
+TOKEN = os.getenv("7193129795:AAEbZ2gwsNT3DYPPrlWprgqNoX1NfJ9hXKw")  # توکن را در محیط Render تنظیم کنید
 PORT = int(os.getenv("PORT", 8443))  # برای Webhook
 APP_NAME = os.getenv("APP_NAME")  # نام برنامه در Render
 
